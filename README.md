@@ -1,6 +1,10 @@
 # Hello, it's Silvan Gehrig
 I work as a professional teacher at BWZ Rapperswil-Jona. Additionally, I teach in postgraduate programs as a lecturer at the Eastern Switzerland University of Applied Sciences (OST), specializing in software design and architecture, as well as web and touch-oriented technologies.
 
+## Tutorials
+- [Angular Heroes Tutorial](https://bwz-rappi-m323.azurewebsites.net/)
+- [Vue and Ionic Tutorial](https://bwz-rappi-m335.azurewebsites.net/)
+
 ## My Projects
 In my free time, I work on projects in the field of innovative thinking, assemble custom computer configurations, and contribute to various [open-source projects](https://www.silvanonline.ch/projects).
 
