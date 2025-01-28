@@ -1,5 +1,5 @@
 # Hello, it's Silvan Gehrig
-I work as a professional teacher at BWZ Rapperswil-Jona. Additionally, I teach in postgraduate programs as a lecturer at the Eastern Switzerland University of Applied Sciences (OST), specializing in software design and architecture, as well as web and touch-oriented technologies.
+I work as a technical education teacher at BWZ Rapperswil-Jona. Additionally, I teach in postgraduate programs as a lecturer at the Eastern Switzerland University of Applied Sciences (OST), specializing in software design and architecture, as well as web and touch-oriented technologies.
 
 ## Tutorials
 The following tutorials were created for professional training courses. However, the tutorials are also significant outside of the classroom and are intended to provide an easy introduction to the technology.
