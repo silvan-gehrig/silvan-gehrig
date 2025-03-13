@@ -10,7 +10,7 @@ The following tutorials were created for professional training courses. However,
 In my free time, I work on projects in the field of innovative thinking, assemble custom computer configurations, and contribute to various [open-source projects](https://www.silvanonline.ch/projects).
 
 ## Main skills
-[![My Skills](https://skillicons.dev/icons?i=angular,react,vue,dotnet,js,ts,nodejs,express,regex,github,git,cs,dotnet,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,vue,js,ts,nodejs,nextjs,regex,github,git,cs,html,css)](https://skillicons.dev)
 
 ### Connect with me!
 <div>
