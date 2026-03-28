@@ -14,13 +14,8 @@ In my free time, I work on projects in the field of innovative thinking, assembl
 
 ### Connect with me!
 <div>
-    <a href="https://www.bwz-rappi.ch/team">
-        <img src="https://www.bwz-rappi.ch/themes/custom/bwz_rappi/assets/img/favicon.png" alt="Art Station" width="35" height="35"/>
-    </a>
-    <a href="https://www.linkedin.com/in/silvanonline/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="35" height="35"/>
-    </a>
-    <a href="https://www.xing.com/profile/Silvan_Gehrig/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Xing-icon.png" alt="Xing" width="35" height="35"/>
-    </a>
+    <a href="https://bwz-rappi.ch/mitarbeiter/silvan-gehrig/"><img src="https://bwz-rappi.ch/wp-content/uploads/2025/08/favicon.png" alt="BWZ Logo" width="35" height="35"/></a>&nbsp;
+    <a href="https://www.ost.ch/de/person/silvan-gehrig-1811"><img src="https://www.ost.ch/_assets/b9c24a23849b09a3881ae8e0c011c216/Icons/Favicon/favicon-96x96.png" alt="OST Logo" width="35" height="35"/></a>&nbsp;
+    <a href="https://www.linkedin.com/in/silvanonline/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="35" height="35"/></a>&nbsp;
+    <a href="https://www.xing.com/profile/Silvan_Gehrig/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Xing-icon.png" alt="Xing" width="35" height="35"/></a>
 </div>
