@@ -3,6 +3,7 @@ I work as a technical education teacher at BWZ Rapperswil-Jona. Additionally, I 
 
 ## Tutorials
 The following tutorials were created for professional training courses. However, the tutorials are also significant outside of the classroom and are intended to provide an easy introduction to the technology.
+- [Next.js Tutorial](https://bwz-rappi-m295.azurewebsites.net/)
 - [Angular Heroes Tutorial](https://bwz-rappi-m323.azurewebsites.net/)
 - [Vue and Ionic Tutorial](https://bwz-rappi-m335.azurewebsites.net/)
 
